@@ -15,7 +15,7 @@ class BottomNavBar extends StatefulWidget {
 
   const BottomNavBar({
     super.key,
-    this.type = BottomNavBarTypes.account,
+    this.type = BottomNavBarTypes.remote,
     this.onChanged,
   });
 
