@@ -1,0 +1,4 @@
+enum OrderSatuses {
+  completed,
+  inProgress,
+}
